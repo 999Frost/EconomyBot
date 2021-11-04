@@ -1,2 +1,15 @@
 # EconomyBot
 Mitsuki - Economy is a economy and good bot !
+
+SKID I SEE YOU
+
+
+
+DON'T TELL THAT YOU MADE IT
+
+
+
+DON'T REMOVE CREDITS.
+
+
+GO IN CONFIG.JSON AND EDIT THE TOKEN AND THE PREFIX IF YOU WANT.
