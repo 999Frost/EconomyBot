@@ -1,18 +1,8 @@
 # EconomyBot
 Mitsuki - Economy is a economy and good bot !
 
-SKID I SEE YOU
+
+for start the bot, just go in config.json and put the bot token and change the prefix if you want
 
 
-
-DON'T TELL THAT YOU MADE IT
-
-
-
-DON'T REMOVE CREDITS.
-
-
-GO IN CONFIG.JSON AND EDIT THE TOKEN AND THE PREFIX IF YOU WANT.
-
-
-DEVELOPPED BY FROST, HANDLER WITH THE RCNLX MODULE.
+developped by 999.Frost, handler made with the rcnlx module.
